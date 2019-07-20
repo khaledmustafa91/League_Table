@@ -1,0 +1,10 @@
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\bin\Debug\League Table.exe.config
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\bin\Debug\League Table.exe
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\bin\Debug\League Table.pdb
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\obj\Debug\League_Table.Properties.Resources.resources
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\obj\Debug\League Table.csproj.GenerateResource.Cache
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\obj\Debug\League Table.exe
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\obj\Debug\League Table.pdb
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\obj\Debug\League_Table.start.resources
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\obj\Debug\League_Table.League.resources
+c:\users\khaled160114\documents\visual studio 2015\Projects\League Table\League Table\obj\Debug\League_Table.Table.resources
